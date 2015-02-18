@@ -31,10 +31,3 @@ More to follow.
 
 # Recipes
 tester -  A recipe to exercise the resources
-
-# Author
-Author:: Sean OMeara (<someara@opscode.com>)
-=======
-# line
-Chef cookbook to edit any arbitrary files
->>>>>>> 01fafd6ea90f9a496f1ea989367735fc173a46c1
