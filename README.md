@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# line-dj cookbook
+# line cookbook
 
 # Motivation
 Quite often, the need arises to do line editing instead of managing an
