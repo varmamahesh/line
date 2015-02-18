@@ -4,5 +4,5 @@
 #
 # Copyright (C) 2013 YOUR_COPYRIGHT
 # 
-# All rights reserved - Do Not Redistribute
+# All rights reserved - Do Not Redistribute.
 #
